@@ -12,8 +12,8 @@ function Mepage() {
             className="w-full h-44 rounded-full mb-4 md:mb-0 md:mr-6"
           />
           <div className="text-center md:text-left">
-            <span className="text-gray-400 block">Web Developer</span>
-            <h4 className="text-2xl text-gray-800 font-bold mb-2">Alex Smith</h4>
+            <span className="text-gray-400 block">Mern Stack Developer</span>
+            <h4 className="text-2xl text-gray-800 font-bold mb-2">Yogesh Tiwari</h4>
             <p className="text-gray-700">
               Fusce tempor magna mi, non egestas velit ultricies nec. Aenean
               convallis, risus non condimentum gravida, odio mauris ullamcorper
